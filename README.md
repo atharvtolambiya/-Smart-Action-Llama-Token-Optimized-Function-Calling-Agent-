@@ -19,3 +19,4 @@ arguments:
   loan_amount: 450000
   interest_rate: 3.5
   loan_term: 15
+<img width="778" height="542" alt="Screenshot 2025-12-04 172013" src="https://github.com/user-attachments/assets/c5c8fe2c-da28-4ea2-8c45-8986afb5f55c" />
