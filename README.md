@@ -1,4 +1,3 @@
-````markdown
 # 🦙 Llama-3 Action Agent: Fine-Tuned for Function Calling
 
 ![Model](https://img.shields.io/badge/Model-Llama_3_8B-blue)
