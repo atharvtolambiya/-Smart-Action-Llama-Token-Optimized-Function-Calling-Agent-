@@ -91,7 +91,4 @@ arguments:
 
 -----
 
-*Created by [Your Name]*
-
-```
-```
+*Created by [Atharv Tolambiya]*
