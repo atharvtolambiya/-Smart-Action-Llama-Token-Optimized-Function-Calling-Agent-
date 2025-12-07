@@ -40,8 +40,8 @@ The core objective was to solve the **"Chatty LLM" Problem** in Agentic Workflow
 The model demonstrates high precision in mapping vague natural language intent to strict arguments.
 
 ### Model Output Example
-![Inference Output](<img width="778" height="542" alt="Screenshot 2025-12-04 172013" src="https://github.com/user-attachments/assets/ed420c2e-7732-47bc-b3a4-d89031459e5f" />
-)
+<img width="1854" height="895" alt="Screenshot 2025-12-07 134355" src="https://github.com/user-attachments/assets/1cbec7f0-48c6-4b78-b5f3-cbca64ea09d8" />
+
 
 
 **Test Case: Financial Calculation**
