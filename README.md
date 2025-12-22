@@ -60,7 +60,7 @@ arguments:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/llama3-action-agent.git](https://github.com/your-username/llama3-action-agent.git)
+    git clone [https://github.com/atharvtolambiya/llama3-action-agent.git](https://github.com/atharvtolambiya/llama3-action-agent.git)
     ```
 2.  **Install dependencies:**
     ```bash
@@ -88,7 +88,3 @@ arguments:
   * **Format Optimization:** Switched to **TOON** format for output structuring, improving token efficiency and lowering latency compared to standard JSON.
   * **Instruction Tuning:** Learned how to curate datasets that punish "conversational filler" and reward strict syntax adherence.
   * **LoRA (Low-Rank Adaptation):** Efficiently fine-tuned a 8B parameter model on consumer hardware without retraining all weights.
-
------
-
-*Created by [Atharv Tolambiya]*
