@@ -72,7 +72,7 @@ arguments:
 
     # Load my fine-tuned adapter
     model, tokenizer = FastLanguageModel.from_pretrained(
-        "your-username/llama3-function-calling-adapter"
+        "/llama3-function-calling-adapter"
     )
 
     prompt = "Get the stock price for Apple."
